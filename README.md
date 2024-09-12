@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hello World!
+I live in Wrocław and i love Music & and Art
 <!--
 **MM-beep-2137/MM-beep-2137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
